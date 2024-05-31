@@ -19,4 +19,4 @@ Further, we also tried to answer the following questions along the way:
 
 5.) How much value do we put at risk by investing in a particular stock?
 
-6.) How can we attempt to predict future stock behavior? (Predicting the closing price stock price of Reliance Industries Limited using LSTM)
+6.) How can we attempt to predict future stock behavior? (Predicting the closing stock price of Reliance Industries Limited using LSTM)
