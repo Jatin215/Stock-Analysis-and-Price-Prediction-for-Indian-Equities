@@ -1,4 +1,4 @@
-# Stock-Analysis-and-Price-Prediction-for-Indian-Equities
+# Stock Analysis and Price Prediction for Indian Equities
 
 ## Introduction
 In this notebook, we explored the data of 4 major stocks in the Indian stock market viz Reliance, TCS, HDFC Bank, and Infosys.
